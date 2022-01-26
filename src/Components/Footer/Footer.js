@@ -25,7 +25,7 @@ function Footer() {
           </div>
           <div className="list">
             <ul>
-              <li>About OLX Group</li>
+             <a href='https://www.olxgroup.com/' style={{textDecoration:'none',color:'black'}}> <li>About OLX Group</li></a>
               <li>Careers</li>
               <li>Contact Us</li>
               <li>OLXPeople</li>
